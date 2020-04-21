@@ -13,10 +13,13 @@
 @import "components/feature-box";
 @import "components/story";
 @import "components/bg-video";
+@import "components/form";
 @import "pages/home";
 
 @import "layout/header";
 @import "layout/grid";
+@import "layout/footer";
+@import "layout/navigation";
 
 .heading-primary {
   color: $color-white;
