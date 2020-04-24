@@ -22,26 +22,26 @@
 @import "layout/footer";
 @import "layout/navigation";
 
-.heading-primary {
-  color: $color-white;
-  text-transform: uppercase;
-  margin: 6rem;
-  backface-visibility: hidden;
-  &--main {
-    display: block;
-    font-size: 6rem;
-    font-weight: 400;
-    letter-spacing: 3.5rem;
-    animation-name: moveInLeft;
-    animation-duration: 1s;
-    animation-timing-function: ease-out;
-  }
+// .heading-primary {
+//   color: $color-white;
+//   text-transform: uppercase;
+//   margin: 6rem;
+//   backface-visibility: hidden;
+//   &--main {
+//     display: block;
+//     font-size: 6rem;
+//     font-weight: 400;
+//     letter-spacing: 3.5rem;
+//     animation-name: moveInLeft;
+//     animation-duration: 1s;
+//     animation-timing-function: ease-out;
+//   }
 
-  &--sub {
-    display: block;
-    font-size: 2rem;
-    font-weight: 400;
-    letter-spacing: 1.75rem;
-    animation: moveInRight 1s ease-out;
-  }
-}
+//   &--sub {
+//     display: block;
+//     font-size: 2rem;
+//     font-weight: 400;
+//     letter-spacing: 1.75rem;
+//     animation: moveInRight 1s ease-out;
+//   }
+// }
