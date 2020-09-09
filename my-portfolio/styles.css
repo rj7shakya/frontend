@@ -13,6 +13,11 @@ body {
   top: 50vh;
   z-index: 1;
 }
+.text {
+  text-align: center;
+  color: #8990a5;
+  font-size: large;
+}
 
 .context h1 {
   text-align: center;
